@@ -5,6 +5,7 @@ I'm Esra ÇETİNTAŞ. I graduated from Karadeniz Technical University Software E
 Connect with me:
 
 <a href="https://www.linkedin.com/in/esracetintas/">Linkedin</a>
-<a href="esra.cetintas@outlook.com.tr"> E-posta göndermek için tıklayınız.</a>
+<br>
+<a href="mailto:esra.cetintas@outlook.com.tr"> E-posta göndermek için tıklayınız.</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EsraCetintas&theme=blue-green)](https://github.com/EsraCetintas/github-readme-stats)
