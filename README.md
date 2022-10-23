@@ -6,6 +6,6 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/esracetintas/">Linkedin</a>
 <br>
-<a href="mailto:esra.cetintas@outlook.com.tr"> E-posta göndermek için tıklayınız.</a>
+<a href="mailto:esra.cetintas@outlook.com.tr"> Send an e-mail</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EsraCetintas&theme=blue-green)](https://github.com/EsraCetintas/github-readme-stats)
