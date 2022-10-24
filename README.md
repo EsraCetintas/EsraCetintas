@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esra ÇETİNTAŞ</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-I'm Esra ÇETİNTAŞ. I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
+I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
 
 - 🌱 I’m currently learning **.NET Core**
 
