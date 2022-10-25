@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esra ÇETİNTAŞ</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A Softare Engineer from Turkey</h3>
+
+![screen-gif](https://yandex.com.tr/gorsel/search?text=komik%20gif%20coding&from=tabbar&p=4&pos=131&rpt=simage&img_url=http%3A%2F%2Fthumbs.gfycat.com%2FFatCarefreeAngwantibo-size_restricted.gif&lr=106120.gif)
 
 I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
 
