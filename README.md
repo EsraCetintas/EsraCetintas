@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esra ÇETİNTAŞ</h1>
 <h3 align="center">A Softare Engineer from Turkey</h3>
 
-![3otv](https://user-images.githubusercontent.com/80174519/197879169-90c47d15-a4c3-4b21-bdf4-56542692fd31.gif)
-<img src="[./myScreen.gif](https://user-images.githubusercontent.com/80174519/197879169-90c47d15-a4c3-4b21-bdf4-56542692fd31.gif)" alt="My Project GIF" width="500" height="600">
+![FatCarefreeAngwantibo-size_restricted](https://user-images.githubusercontent.com/80174519/197880169-e6c4a055-878a-4f21-bf25-5e48a6d13c75.gif)
+
 
 I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
 
