@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Esra</h1><h3 align="center">Türkiye'den tutkulu bir arka uç geliştiricisi</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=esracetintas&label=Profile%20views&color=0e75b6&style=flat" alt="esracetintas" /> </p>
 
-<p align="center">![FatCarefreeAngwantibo-size_restricted](https://user-images.githubusercontent.com/80174519/197883031-97e4ff1a-0e53-4401-84d6-f3f227727db5.gif)</p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esracetintas" alt="esracetintas" />
   
 I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
