@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋 , I'm Esra</h1><h3 align="center">A passionate Software Engineer from Turkey</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=esracetintas&label=Profile%20views&color=0e75b6&style=flat" alt="esracetintas" /> </p>
+<h1 align="center">Hi 👋, I'm Esra</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=esracetintas&label=Profile%20views&color=0e75b6&style=flat" alt="esracetintas" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esracetintas" alt="esracetintas" /></a> </p>
-  
+
 I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
- 
--🌱I’m currently learning **.NET Core**
+
+- 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **esra.cetintas@outlook.com.tr**
 
