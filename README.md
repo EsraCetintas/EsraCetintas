@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esra</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Esra Çetintaş</h1>
+<h3 align="center">A passionate software engineer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=esracetintas&label=Profile%20views&color=0e75b6&style=flat" alt="esracetintas" /> </p>
 
