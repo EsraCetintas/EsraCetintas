@@ -4,14 +4,14 @@
   
 I graduated from Karadeniz Technical University Software Engineering as an Honor Student. I love my department very much. I am skilled .NET Core. I have experience in this field about 6 mounts. I want to improve myself in this field. My work experience so far has taught me a lot.
   
-</a> </p>- Şu anda öğreniyorum **.NET Core**- 🌱 Bana nasıl ulaşırım **esra.cetintas@outlook.com.tr**
+</a> </p>-I’m currently learning **.NET Core**
+- 🌱 How to reach me **esra.cetintas@outlook.com.tr**
 
-
-<h3 align="left">Benimle bağlan:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
-📫 <a href="https://linkedin.com/in/linkedin.com/in/esracetintas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/esracetintas/" height="30" width="40" /></a></p><h3 align="left">Diller ve Araçlar:</h3>
+📫 <a href="https://linkedin.com/in/linkedin.com/in/esracetintas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/esracetintas/" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3>
 
 
 
